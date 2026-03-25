@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\cjh\\Code\\CppStudy\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|D:\\cjh\\Code\\CppStudy\\Day1\\04.struct\u548Cclass\u7684\u533A\u522B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|solutionrelative:Day1\\04.struct\u548Cclass\u7684\u533A\u522B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|D:\\cjh\\Code\\CppStudy\\Day1\\03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|solutionrelative:Day1\\03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|D:\\cjh\\Code\\CppStudy\\Day1\\01.\u5C01\u88C5\u7684\u610F\u4E49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|solutionrelative:Day1\\01.\u5C01\u88C5\u7684\u610F\u4E49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|D:\\cjh\\Code\\CppStudy\\Day1\\02.\u8BFE\u540E\u4E60\u98981.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52320C6C-EF9D-4AA6-8EA5-DD98C0FC83A5}|Day1\\Day1.vcxproj|solutionrelative:Day1\\02.\u8BFE\u540E\u4E60\u98981.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "04.struct\u548Cclass\u7684\u533A\u522B.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day1\\04.struct\u548Cclass\u7684\u533A\u522B.cpp",
+              "RelativeDocumentMoniker": "Day1\\04.struct\u548Cclass\u7684\u533A\u522B.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day1\\04.struct\u548Cclass\u7684\u533A\u522B.cpp",
+              "RelativeToolTip": "Day1\\04.struct\u548Cclass\u7684\u533A\u522B.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:27:21.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day1\\03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp",
+              "RelativeDocumentMoniker": "Day1\\03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day1\\03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp",
+              "RelativeToolTip": "Day1\\03.\u5C01\u88C5\u7684\u6743\u9650\u63A7\u5236.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:17:03.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02.\u8BFE\u540E\u4E60\u98981.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day1\\02.\u8BFE\u540E\u4E60\u98981.cpp",
+              "RelativeDocumentMoniker": "Day1\\02.\u8BFE\u540E\u4E60\u98981.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day1\\02.\u8BFE\u540E\u4E60\u98981.cpp",
+              "RelativeToolTip": "Day1\\02.\u8BFE\u540E\u4E60\u98981.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T08:02:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01.\u5C01\u88C5\u7684\u610F\u4E49.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day1\\01.\u5C01\u88C5\u7684\u610F\u4E49.cpp",
+              "RelativeDocumentMoniker": "Day1\\01.\u5C01\u88C5\u7684\u610F\u4E49.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day1\\01.\u5C01\u88C5\u7684\u610F\u4E49.cpp",
+              "RelativeToolTip": "Day1\\01.\u5C01\u88C5\u7684\u610F\u4E49.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-25T07:54:16.129Z",
+              "EditorCaption": ""
             }
           ]
         }
