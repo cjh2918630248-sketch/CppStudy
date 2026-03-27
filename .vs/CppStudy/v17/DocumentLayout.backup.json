@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\cjh\\Code\\CppStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|D:\\cjh\\Code\\CppStudy\\Day2\\09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E19F5A1B-19DF-461F-8BB9-AC6ADC512BBD}|Day3\\Day3.vcxproj|D:\\cjh\\Code\\CppStudy\\Day3\\3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19F5A1B-19DF-461F-8BB9-AC6ADC512BBD}|Day3\\Day3.vcxproj|solutionrelative:Day3\\3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|D:\\cjh\\Code\\CppStudy\\Day2\\08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E19F5A1B-19DF-461F-8BB9-AC6ADC512BBD}|Day3\\Day3.vcxproj|D:\\cjh\\Code\\CppStudy\\Day3\\2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E19F5A1B-19DF-461F-8BB9-AC6ADC512BBD}|Day3\\Day3.vcxproj|solutionrelative:Day3\\2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|D:\\cjh\\Code\\CppStudy\\Day2\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day2\\10.cpp",
+              "RelativeDocumentMoniker": "Day2\\10.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day2\\10.cpp",
+              "RelativeToolTip": "Day2\\10.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T11:56:29.665Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -27,27 +45,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp",
-              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day2\\08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp",
-              "RelativeDocumentMoniker": "Day2\\08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp",
-              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day2\\08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp",
-              "RelativeToolTip": "Day2\\08.\u6784\u9020\u51FD\u6570\u548C\u6790\u6784\u51FD\u6570.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Title": "2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day3\\2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp",
+              "RelativeDocumentMoniker": "Day3\\2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day3\\2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp",
+              "RelativeToolTip": "Day3\\2.\u6784\u9020\u51FD\u6570\u8C03\u7528\u539F\u5219.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-26T06:50:18.816Z",
+              "WhenOpened": "2026-03-27T12:25:01.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp",
-              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day2\\09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp",
-              "RelativeDocumentMoniker": "Day2\\09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp",
-              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day2\\09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp",
-              "RelativeToolTip": "Day2\\09.\u6784\u9020\u51FD\u6570\u7684\u5206\u7C7B\u53CA\u8C03\u7528.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDgAAAAsAAAAAAAAAA==",
+              "Title": "3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day3\\3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
+              "RelativeDocumentMoniker": "Day3\\3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day3\\3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
+              "RelativeToolTip": "Day3\\3.\u6DF1\u62F7\u8D1D\u4E0E\u6D45\u62F7\u8D1D.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-26T06:47:28.737Z",
+              "WhenOpened": "2026-03-27T12:24:38.28Z",
               "EditorCaption": ""
             }
           ]
