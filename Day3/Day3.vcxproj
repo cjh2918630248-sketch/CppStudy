@@ -126,6 +126,8 @@
     <ClCompile Include="1.拷贝构造函数调用时机.cpp" />
     <ClCompile Include="2.构造函数调用原则.cpp" />
     <ClCompile Include="3.深拷贝与浅拷贝.cpp" />
+    <ClCompile Include="4.初始化列表.cpp" />
+    <ClCompile Include="5.类对象作为类的成员.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
