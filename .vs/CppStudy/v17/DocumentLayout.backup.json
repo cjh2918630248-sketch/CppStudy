@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\cjh\\Code\\CppStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3362A97-3435-421F-9653-BC7789BCCE76}|Day4\\Day4.vcxproj|D:\\cjh\\Code\\CppStudy\\Day4\\5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C3362A97-3435-421F-9653-BC7789BCCE76}|Day4\\Day4.vcxproj|solutionrelative:Day4\\5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E535B30B-CCCD-47CD-A0A9-D299222AA630}|Day5\\Day5.vcxproj|D:\\cjh\\Code\\CppStudy\\Day5\\3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E535B30B-CCCD-47CD-A0A9-D299222AA630}|Day5\\Day5.vcxproj|solutionrelative:Day5\\3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E535B30B-CCCD-47CD-A0A9-D299222AA630}|Day5\\Day5.vcxproj|D:\\cjh\\Code\\CppStudy\\Day5\\2.\u7C7B\u505A\u53CB\u5143.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E535B30B-CCCD-47CD-A0A9-D299222AA630}|Day5\\Day5.vcxproj|solutionrelative:Day5\\2.\u7C7B\u505A\u53CB\u5143.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CE7F11F-31AF-4FC5-AA4B-F0E4B75736F9}|Day2\\Day2.vcxproj|D:\\cjh\\Code\\CppStudy\\Day2\\10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "10.cpp",
               "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day2\\10.cpp",
               "RelativeDocumentMoniker": "Day2\\10.cpp",
@@ -35,21 +39,34 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2.\u7C7B\u505A\u53CB\u5143.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day5\\2.\u7C7B\u505A\u53CB\u5143.cpp",
+              "RelativeDocumentMoniker": "Day5\\2.\u7C7B\u505A\u53CB\u5143.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day5\\2.\u7C7B\u505A\u53CB\u5143.cpp",
+              "RelativeToolTip": "Day5\\2.\u7C7B\u505A\u53CB\u5143.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-29T09:26:44.731Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
-              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day4\\5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
-              "RelativeDocumentMoniker": "Day4\\5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
-              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day4\\5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
-              "RelativeToolTip": "Day4\\5.\u7A7A\u6307\u9488\u8C03\u7528\u6210\u5458\u51FD\u6570.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Title": "3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp",
+              "DocumentMoniker": "D:\\cjh\\Code\\CppStudy\\Day5\\3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp",
+              "RelativeDocumentMoniker": "Day5\\3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp",
+              "ToolTip": "D:\\cjh\\Code\\CppStudy\\Day5\\3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp",
+              "RelativeToolTip": "Day5\\3.\u6210\u5458\u51FD\u6570\u505A\u53CB\u5143.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-29T07:52:01.404Z",
+              "WhenOpened": "2026-03-29T09:18:29.431Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
